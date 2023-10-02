@@ -9,3 +9,4 @@ SHOW VARIABLES LIKE 'binlog_format';
 SHOW VARIABLES LIKE 'binlog_expire_logs_seconds';
 
 
+--dfdf
