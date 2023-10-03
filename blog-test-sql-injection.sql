@@ -1,4 +1,4 @@
-mysql> call mysql.rds_set_configuration('binlog retention hours', 24);
+call mysql.rds_set_configuration('binlog retention hours', 24);
 
 
 
